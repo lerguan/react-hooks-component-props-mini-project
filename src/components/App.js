@@ -3,7 +3,7 @@ import blogData from "../data/blog";
 import Header from "./Header";
 import About from "./About";
 import ArticleList from "./ArticleList";
-import logo from "../assets/logo.svg"
+
 
 function App() {
   return (
